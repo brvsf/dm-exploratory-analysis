@@ -3,11 +3,13 @@
 Este projeto realiza uma análise exploratória dos dados de voos, com foco em atrasos nas partidas e chegadas. São utilizadas técnicas de visualização para identificar padrões por companhia aérea, período do dia, entre outros fatores.
 
 ## Estrutura do Projeto
-
+```bash
 ├── data/ # Pasta onde os dados originais devem ser colocados
 ├── data.r # Script R para transformar rdata em csv
 ├── analise_voos.ipynb # Notebook principal com a análise exploratória
 ├── README.md
+```
+
 
 ## Como rodar o projeto
 
@@ -21,6 +23,7 @@ Este projeto realiza uma análise exploratória dos dados de voos, com foco em a
 
    ```bash
    "Rscript data.r"
+   ```
 
 3. **Execute o notebook***
 
