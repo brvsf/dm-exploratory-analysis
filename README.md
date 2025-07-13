@@ -6,7 +6,7 @@ Este projeto realiza uma análise exploratória dos dados de voos, com foco em a
 ```bash
 ├── data/ # Pasta onde os dados originais devem ser colocados
 ├── data.r # Script R para transformar rdata em csv
-├── analise_voos.ipynb # Notebook principal com a análise exploratória
+├── notebook.ipynb # Notebook principal com a análise exploratória
 ├── README.md
 ```
 
