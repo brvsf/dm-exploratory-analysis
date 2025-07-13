@@ -27,4 +27,4 @@ Este projeto realiza uma análise exploratória dos dados de voos, com foco em a
 
 3. **Execute o notebook***
 
-Após criar o arquivo `.csv`, abra o `notebook.ipynb` no Jupyter (ou editor de texto) e rode as células para visualizar a análise.
+   Após criar o arquivo `.csv`, abra o `notebook.ipynb` no Jupyter (ou editor de texto) e rode as células para visualizar a análise.
