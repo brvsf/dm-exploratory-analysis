@@ -19,10 +19,10 @@ Este projeto realiza uma análise exploratória dos dados de voos, com foco em a
 
 2. **Execute o script de preparação**
 
-   Rode o script `data.r` no R ou RStudio. Esse script processa os dados `.rdata` e gera um arquivo de dados `.csv` que será usado no notebook.
+   Rode o script `src/data.r` no R ou RStudio. Esse script processa os dados `.rdata` e gera um arquivo de dados `.csv` que será usado no notebook.
 
    ```bash
-   "Rscript data.r"
+   "Rscript src/data.r"
    ```
 
 3. **Execute o notebook***
